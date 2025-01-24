@@ -28,7 +28,3 @@ We regularly update the functions and data available in Sunrise Hub to ensure yo
 
 License 📝
 This project is open-source and available under the MIT License.
-# Product
-![BETA PHOTO](https://raw.githubusercontent.com/KrypDeveloper/Sunrise-Hub/refs/heads/main/Images/BETA.png)
-
-`BETA of Sunrise Hub OMNI X in development`
