@@ -32,8 +32,8 @@ Sunrise Hub isn't just another exploit – it's a revolution in Roblox manipulat
 ## 💻 Technical Precision
 
 ### Technology Stack
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+[![Luau](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://create.roblox.com/docs/luau)
+[![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/)
 
 ### Quick Integration
 
@@ -48,17 +48,19 @@ SunriseHub:Initialize({
 ## 👥 The Masterminds Behind Sunrise
 
 ### Developer Profiles
-- **Devzinh**: Master of Lua Engineering
-- **KrypDeveloper**: Roblox Manipulation Specialist
+- **Devzinh**: Bypass Techniques Virtuoso
+- **KrypDeveloper**: Advanced Game Manipulation Specialist
 
 ## 🏆 Community Recognition
 - Trusted by top Roblox players
 - Proven performance across multiple game modes
 - Continuous innovation
 
+Excelente observação! Vou atualizar essa seção com um design mais sofisticado de badge e link:
+
 ## 📬 Stay Connected
-- Discord: [[Sunrise Hub Community](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JJmTR4rqTZ)
-- GitHub: Upcoming Repository
+
+[![GitHub](https://img.shields.io/badge/GitHub-Upcoming%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrypDeveloper/Sunrise-Hub)
 
 ## 🚀 Upcoming Features
 - Enhanced stealth modes
