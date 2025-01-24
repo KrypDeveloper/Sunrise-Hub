@@ -56,8 +56,6 @@ SunriseHub:Initialize({
 - Proven performance across multiple game modes
 - Continuous innovation
 
-Excelente observação! Vou atualizar essa seção com um design mais sofisticado de badge e link:
-
 ## 📬 Stay Connected
 
 [![GitHub](https://img.shields.io/badge/GitHub-Upcoming%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrypDeveloper/Sunrise-Hub)
