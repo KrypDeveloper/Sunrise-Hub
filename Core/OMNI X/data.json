@@ -1,5 +1,6 @@
 {
   "aliens": {
     "OS": ["heatblast", "diamond", "wildmutt", "clockwork", "wildmutt", "xrl8", "greymatter", "fourarms", "stinkfly", "ripjaws", "upgrade", "ghostfreak", "cannonbolt", "wildvine", "blitzwolfer", "snareoh", "frankenstrike", "upchuck", "ditto", "eyeguy", "diamond", "waybig", "feedback", "buzzshock", "articguana", "spitter", "heatblast"]
-  }
+  },
+  "races": ["anodita", "osmosian", "timewalker", "wizard"]
 }
