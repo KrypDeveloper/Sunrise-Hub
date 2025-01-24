@@ -38,11 +38,7 @@ Sunrise Hub isn't just another exploit – it's a revolution in Roblox manipulat
 ### Quick Integration
 
 ```lua
-local SunriseHub = require("sunrise-exploit")
-SunriseHub:Initialize({
-    mode = "ultimate",
-    gameControl = true
-})
+--// Soon...
 ```
 
 ## 👥 The Masterminds Behind Sunrise
@@ -65,5 +61,10 @@ SunriseHub:Initialize({
 - Expanded game compatibility
 - Advanced injection techniques
 - Community-driven development
+
+# Product
+![BETA PHOTO](https://raw.githubusercontent.com/KrypDeveloper/Sunrise-Hub/refs/heads/main/Images/BETA.png)
+
+`BETA of Sunrise Hub OMNI X in development`
 
 ### Join the Revolution. Unleash Your Potential.
